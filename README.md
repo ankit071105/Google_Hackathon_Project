@@ -1,4 +1,4 @@
-Frontend: Next.js demo. Run `npm install` then `npm run dev`. Ensure NEXT_PUBLIC_API_BASE is set to backend URL if needed.
+Frontend: Next.js demo. Run `npm install` then `npm run dev`
 
 
 # backend run 
